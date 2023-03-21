@@ -1,0 +1,11 @@
+Hunt#,TakeMethod,Area,Hunters,Harvest,Success%,Days,Boars,Sows,Fall,Spring,Bait
+8001 AnyWeapon 22-1 30 25 5 30 
+8002 AnyWeapon 32 37 22 15 37 
+8003 AnyWeapon 32A 11 5 6 11 
+8004 AnyWeapon 32 7 4 3 7 
+8501 AnyWeapon 1-1 4 4 4 
+8502 AnyWeapon 22 13 7 6 13 
+8503 AnyWeapon 22 26 12 14 26 
+8504 AnyWeapon 31 17 9 8 17 
+8505 AnyWeapon 32-1 32 16 16 32 
+8506 AnyWeapon 22-1 8 3 5 8

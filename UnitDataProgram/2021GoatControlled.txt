@@ -1,0 +1,21 @@
+Hunt#,TakeMethod,Area,Hunters,Harvest,Success%,Days,Billies,Nannies,"Avg. Horn Length (in.)","Avg. Horn Circum. (in.)"
+6001 AnyWeapon 7 1 0 0 N/A N/A N/A N/A N/A
+6002 AnyWeapon 10-1 2 1 50  N/A 1  N/A 10.25 N/A
+6003 AnyWeapon 10-2 1 1 100 N/A  N/A 1 4.75 N/A
+6004 AnyWeapon 18 3 2 67  N/A 1 1 8.62 4.62
+6005 AnyWeapon 22 3 3 100  N/A 2 1 8.42 4.54
+6006 AnyWeapon 27-2 2 2 100  N/A 2  N/A 9.31 5.12
+6007 AnyWeapon 27-4 1 1 100  N/A 1  N/A 9.88 5.5
+6008 AnyWeapon 27-5 3 3 100  N/A 1 2 8.58 4.25
+6009 AnyWeapon 36-1 2 2 100  N/A 2  N/A 8.75 4.69
+6010 AnyWeapon 36A-1 1 1 100  N/A 1  N/A 7.5 4.5
+6011 AnyWeapon 36A-2 1 1 100  N/A 1  N/A 8.88 5.62
+6012 AnyWeapon 36A-3 2 2 100  N/A 2  N/A 8.25 5
+6013 AnyWeapon 36A-4 2 2 100  N/A 1 1 8.06 4
+6014 AnyWeapon 36B 2 2 100  N/A 2  N/A 8.19 5
+6015 AnyWeapon 37A 1 1 100  N/A 1  N/A 8.38 5.25
+6016 AnyWeapon 39 1 1 100  N/A 1  N/A 9.5 5.38
+6017 AnyWeapon 43 5 4 80  N/A 4  N/A 7.88 4.88
+6018 AnyWeapon 50 4 2 50  N/A 2  N/A 7.62 4.75
+6019 AnyWeapon 51 2 2 100  N/A 2  N/A 10.12 5.25
+6020 AnyWeapon 67 2 1 50  N/A 1  N/A 9.5 5.5

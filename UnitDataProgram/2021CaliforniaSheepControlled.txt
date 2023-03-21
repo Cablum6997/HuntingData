@@ -1,0 +1,8 @@
+Hunt#,TakeMethod,Area,Hunters,Harvest,Success%,Days,Rams,Ewes,"Avg. Horn Length (in.)","Avg. Horn Circum. (in.)"
+7001 AnyWeapon 40 1 1 100 1 40.75 15.62
+7002 AnyWeapon 41-1 2 2 100 2 32.38 15.38
+7003 AnyWeapon 41-2 4 3 75 3 30.33 14.83
+7004 AnyWeapon 42-1 3 1 33 1 30.75 14.5
+7005 AnyWeapon 42-2 3 2 66 2 29 13.5
+7006 AnyWeapon 46-1 1 1 100 1 29.5 12.88
+7007 AnyWeapon 55 2 2 100 2 25.38 13.25
